@@ -1,5 +1,0 @@
-AIzaSyDDRz9o2-WXSQ8KwJDShfnwCASPI-9WXIo
-
-jhojhoaugusto - PRRNVJgywXaQ7fFY
-
-mongodb+srv://jhojhoaugusto:<db_password>@cluster0.bu5de.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
